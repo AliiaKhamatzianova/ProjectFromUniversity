@@ -1,0 +1,9 @@
+D:\Документы\4 курс\2 семестр\криптография\second\second\bin\Debug\second.exe.config
+D:\Документы\4 курс\2 семестр\криптография\second\second\bin\Debug\second.exe
+D:\Документы\4 курс\2 семестр\криптография\second\second\bin\Debug\second.pdb
+D:\Документы\4 курс\2 семестр\криптография\second\second\obj\Debug\second.csprojResolveAssemblyReference.cache
+D:\Документы\4 курс\2 семестр\криптография\second\second\obj\Debug\second.Form1.resources
+D:\Документы\4 курс\2 семестр\криптография\second\second\obj\Debug\second.Properties.Resources.resources
+D:\Документы\4 курс\2 семестр\криптография\second\second\obj\Debug\second.csproj.GenerateResource.Cache
+D:\Документы\4 курс\2 семестр\криптография\second\second\obj\Debug\second.exe
+D:\Документы\4 курс\2 семестр\криптография\second\second\obj\Debug\second.pdb

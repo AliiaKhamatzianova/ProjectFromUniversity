@@ -1,0 +1,18 @@
+D:\Документы\4 курс\2 семестр\криптография\first\first\bin\Debug\first.exe.config
+D:\Документы\4 курс\2 семестр\криптография\first\first\bin\Debug\first.exe
+D:\Документы\4 курс\2 семестр\криптография\first\first\bin\Debug\first.pdb
+D:\Документы\4 курс\2 семестр\криптография\first\first\obj\Debug\first.csprojResolveAssemblyReference.cache
+D:\Документы\4 курс\2 семестр\криптография\first\first\obj\Debug\first.Form1.resources
+D:\Документы\4 курс\2 семестр\криптография\first\first\obj\Debug\first.Properties.Resources.resources
+D:\Документы\4 курс\2 семестр\криптография\first\first\obj\Debug\first.csproj.GenerateResource.Cache
+D:\Документы\4 курс\2 семестр\криптография\first\first\obj\Debug\first.exe
+D:\Документы\4 курс\2 семестр\криптография\first\first\obj\Debug\first.pdb
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\bin\Debug\first.exe.config
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\obj\Debug\first.exe
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\obj\Debug\first.pdb
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\bin\Debug\first.exe
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\bin\Debug\first.pdb
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\obj\Debug\first.csprojResolveAssemblyReference.cache
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\obj\Debug\first.Form1.resources
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\obj\Debug\first.Properties.Resources.resources
+D:\Документы\4 курс\2 семестр\криптография\1 задание\first\first\obj\Debug\first.csproj.GenerateResource.Cache

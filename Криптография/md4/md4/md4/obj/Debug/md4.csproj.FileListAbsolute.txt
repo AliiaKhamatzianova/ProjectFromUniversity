@@ -1,0 +1,9 @@
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\bin\Debug\md4.exe.config
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\obj\Debug\md4.csprojResolveAssemblyReference.cache
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\obj\Debug\md4.Form1.resources
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\obj\Debug\md4.Properties.Resources.resources
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\obj\Debug\md4.csproj.GenerateResource.Cache
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\bin\Debug\md4.exe
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\bin\Debug\md4.pdb
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\obj\Debug\md4.exe
+D:\Документы\4 курс\2 семестр\криптография\md4\md4\md4\obj\Debug\md4.pdb
